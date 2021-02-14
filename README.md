@@ -5,9 +5,11 @@ Projetos demonstrativos sobre os fundamentos da linguagem JAVA
 ```
  1- Configuar o java 8
  ```
+
 # Tecnologias utilizadas e outros
 ```
  1- Java 8
+```
 
 # Passos para baixa e rodar o projeto
 ```
