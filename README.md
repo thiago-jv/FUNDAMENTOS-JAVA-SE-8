@@ -10,12 +10,6 @@ Projetos demonstrativos sobre os fundamentos da linguagem JAVA
 
 1- Java 8 [Sobre](https://www.java.com/pt-BR/download/help/java8_pt-br.html)
 
-# Passos para baixa e rodar o projeto
-```
- 1- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
- 2- git clone https://github.com/thiago-jv/JSF_PRIMEFACES_JPA_POSTGRES.git 
- 3- Importe no IDE-ECLIPSE
-```
 
 
 
